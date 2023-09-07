@@ -1,2 +1,2 @@
 # Data-Cleaning
-Clean Data by SQL
+Cleaning Data by SQL
